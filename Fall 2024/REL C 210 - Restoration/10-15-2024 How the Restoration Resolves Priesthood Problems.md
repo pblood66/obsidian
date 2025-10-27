@@ -1,0 +1,1 @@
+Tithing is a part of consecration; not instead of. Law of Consecration is that you give all that is unnecessary. Tithing is a sacrifice to give something that might be needed but trusting that God will give back. 

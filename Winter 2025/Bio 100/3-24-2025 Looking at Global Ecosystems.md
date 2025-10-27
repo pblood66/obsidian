@@ -1,0 +1,74 @@
+# What is an Ecosystem?
+- everything living and non-living within a geographical boundary
+- species, populations, community + climate, weather, topography, geology, chemistry
+- large-scale processes 
+- all interacting to produce an ecosystem
+## Ecosystem Predictors
+- Climate: long-term weather patterns of a region
+	- temperate, dry climate of Utah
+	- warm, humid climate of Florida
+	- influenced by relationship of the sun and Earth
+- Planetary Characteristics
+	- tilt of Earth is responsible for seasons
+- Rotation effects
+	- planetary air currents produce predictable climates
+	- planetary water currents produce predictable marine climates
+- Land Topography
+	- air rises up and over mountains
+	- precipitation on leading side, less on "shadow" side 
+# Biodiversity Patterns and Climate
+- Species distribution:
+	- dependent on temperature and water availability
+	- not the same everywhere
+	- **Biomes**: characteristic conditions and plant communities
+- Tropical Rain Forests
+	- equatorial, relatively warm constant temps, large amount of rainfall
+	- Most biodiversity on planet (maybe 1/2)
+	- most nutrients are stored in vegetation
+		- cut down and burn vegetation, soil is mostly infertile
+		- many attempts at large-scale agriculture have failed 
+- Tropical Deciduous Forests
+	- intermittent rainfall, wet/dry seasons
+	- parts of Florida and extreme Southeast ("swamp")
+- Tropical Scrub/Savanna
+	- little rainfall, still have monsoons
+	- intermittent trees, mostly grasses
+- Deserts
+	- almost no rainfall (arbitrarily less than 10 in/yr)
+	- can be very hot, can be very cold
+	- amazing adaptations 
+- Chapparal
+	- all of the little rainfall comes in cool winters
+	- mostly shrubs
+- Grasslands
+	- tall and short-grass prairie
+	- continuous grass cover
+- Temperate Deciduous Forests: 
+	- sub-freezing winters 
+	- enough rainfall to support trees
+- Temperate Rain Forests
+	- coastal regions, very moist
+	- moderate temps. around 50 in rain/yr
+- Taiga
+	- Northern coniferous
+	- short growing season, precip. is mostly snow
+- Tundra
+	- treeless, extremely short growing season, harsh winters, low rainfall
+	- permafrost prevents water absorption 
+- Freshwater zones
+	- littoral: shoreline, abundant light
+	- limnetic: mid water column, stll photosynthetic
+	- profundal: no photosynthesis, survive on material that sinks down from above
+	- Two types of lakes based on nutrients
+		- oligotrophic: low nutrient, cold, clear
+		- eutrophic: high nutrient, warmer, low oxygen 
+- Marine (saltwater) ecosystems:
+	- estuaries: unstable mix of salt and fresh water, tidal changes, river and ocean meet
+	- intertidal: 
+		- tide pools
+		- species must tolerate dry and wet conditions
+	- continental shelf
+	- coral reefs
+	- open ocean
+	- benthic: deep water
+		- super oxygenated water in colder oceans allows for larger than average invertebrates
