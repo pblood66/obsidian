@@ -22,4 +22,8 @@
 ## Art of Horror Film
 #### Frankenstein, 1931
 - Has become a household name
-- after WW!
+- after WWI, the world saw "the walking dead"
+	- lots of wounded that came home alive
+		- missing arms, legs, faces
+#### The Exorcist, 1973
+- 
