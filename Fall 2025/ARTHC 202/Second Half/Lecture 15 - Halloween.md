@@ -27,4 +27,9 @@
 		- missing arms, legs, faces
 #### The Exorcist, 1973
 - There are powers in your life that you can't comprehend until they are manifested to you
-- 
+
+#### Halloween
+- Life is scary
+- often the hardest and scariest things in life are not our fault
+
+#### Poltergeist, 1982
