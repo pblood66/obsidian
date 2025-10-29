@@ -33,3 +33,5 @@
 - often the hardest and scariest things in life are not our fault
 
 #### Poltergeist, 1982
+#### The Conjuring, 2013
+#### The Shining, 1980
