@@ -4,4 +4,13 @@
 #### Why do we like being scared?
 - It used to be tradition to tell scary stories during Christmas
 - Life is scary
-- 
+	- help us to rehearse and practice the scary emotions in a safe space
+- art sometimes should be scary
+
+#### Peter Bruegel the Elder, Triumph of Death, 1562
+- Armies of animated corpses
+
+#### Goya, Saturn Devouring His Son, 1819-1823
+#### Francis Bacon, Painting, 1946
+- post world war era
+#### Alton PIckens, Carnival, 19
