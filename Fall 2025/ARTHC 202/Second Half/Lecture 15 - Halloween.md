@@ -26,4 +26,5 @@
 	- lots of wounded that came home alive
 		- missing arms, legs, faces
 #### The Exorcist, 1973
+- There are powers in your life that you can't comprehend until they are manifested to you
 - 
