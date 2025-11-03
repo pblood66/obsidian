@@ -51,4 +51,21 @@
 #### Degas, Musicians in the Orchestra, 1872
 - Well known for painting performers
 - Feels like we are sitting with the audience near the orchestra pit
+# Post-Impressionism
+- Takes impressionism as a given
+- doesn't mean that they reject it
+- more like an evolution
+#### Georges Seurat, Sunday Afternoon on the Isle of la Grande Jatte, 1884
+- People are very geometric
+- Pointillism
+	- Took a loooong time
+		- years
+	- not like something that you can do in the moment like some impressionists
+- hyper aware of the brush strokes
+	- not trying to hide the strokes
+	- not like Monet with big calligraphic strokes
+- Optical mixing to the extreme
+- impressionist brush strokes and color theory taken to the extreme
+- Every day scene
+- details are sparing
 - 
