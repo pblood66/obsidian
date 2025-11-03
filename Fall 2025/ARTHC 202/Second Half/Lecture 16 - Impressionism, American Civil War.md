@@ -25,4 +25,30 @@
 	- They are trying to meet expectations but not necessarily feels like friends
 #### Cassatt, The Bath, 1892
 - Painting the dynamic between mothers and their children
+- asymmetrical composition
+- lots of vibrant colors and patterns
+- influenced and inspiredby Japanese print culture
+#### Utamaro, Takashima Using Two Mirrors
+- *Japonisme*: European craving for Japanese stuff
+	- original weebs
+- asymmetrical composition
+- vibrant colors and patterns
+#### Cassatt, Woman Bathing, 1901
+- Asymmetrical composition
+- patterning
+- room is at a tilt
+#### Edgar Degas, Portrait of Ms Cassatt, 1876
+- Degas was a misogynist and antisemite
+	- Became friends with Cassatt
+- Degas and Cassatt made a journal of impressionist prints
+	- Degas backed out
+	- falling out
+#### Degas, The Tub, 1896
+- Pastel drawing
+- More of an objectified view of women
+	- the woman looks small
+	- looks like a decorative object
+#### Degas, Musicians in the Orchestra, 1872
+- Well known for painting performers
+- Feels like we are sitting with the audience near the orchestra pit
 - 
