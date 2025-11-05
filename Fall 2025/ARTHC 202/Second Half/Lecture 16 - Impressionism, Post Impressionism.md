@@ -68,4 +68,35 @@
 - impressionist brush strokes and color theory taken to the extreme
 - Every day scene
 - details are sparing
+#### Cezanne, The Murder, 1868
+- Very dark and intense
+- theatrical and dramatic
+#### Cezanne, The Bathers, 1906
+- Paint the natural world but looks for shapes
+- Geometric 
+- not capturing a believable shape but an interesting one
+#### Cezanne, Basket of Apples, 1895
+- Paint from life but long term looking
+	- paints for so long that his fruit rots
+- essentialized what is in front of him rather than represent 
+- uneven surfaces
+	- painting what he sees from his left eye and right eye
+- Focused on the process rather than the product
+#### Vincent Van Gogh, Self-Portrait, 1889
+- Brush stroke are very apparent but also very intentional and controlled
+	- stylized element
+	- the brush stroke is the very basic unit of painting
+- Dutch born but paints in France
+#### Van Gogh, Red Vineyard, 1888
+- intense color combinations
+- only sold one painting his entire life
+	- Felt like it was charity
+#### Van Gogh, Night Cafe, 1889
+- intense colors
+- Wanted to paint a place that you would go mad or commit a crime
+- using color not to represent but to project an emotion
+#### Van Gogh, Starry Night, 1889
+- intense color combinations
+- controlled use of brush strokes
+- painted in the room of a sanitarium
 - 
