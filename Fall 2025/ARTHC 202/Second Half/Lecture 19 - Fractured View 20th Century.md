@@ -38,6 +38,11 @@
 
 #### Picasso, Still Life with Chair Cane, 1912
 - Looking down at a glass topped table at a cafe
+- interested in questioning illusion
+#### Picasso, Guitar, 1913
+- originally supposed to be a maquette
+	- a model for a larger sculpture of a guitar
+- liked it as it is
 - 
 # Ashcan
 # Stieglitz
