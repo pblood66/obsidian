@@ -63,8 +63,11 @@
 	- greatest work of art man has made is war
 		- cleanses the earth
 	- They hang out with peeps like Mussolini
-- Futurists are proto fascists
-- 
+	- Futurists were proto fascists
+- Can/should we separate the art from the artist?
+	- it's not cut and dry
+	- Picasso was a bad person but he still played an integral role in art history
+	- 
 # Ashcan
 # Stieglitz
 # The Armory Show
