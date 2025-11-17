@@ -67,7 +67,12 @@
 - Can/should we separate the art from the artist?
 	- it's not cut and dry
 	- Picasso was a bad person but he still played an integral role in art history
-	- 
-# Ashcan
-# Stieglitz
-# The Armory Show
+	- We can love something but also feel really complicated about
+		- art gives us a safe place to interact with things like that
+# American Art, 1900-1913
+## Ashcan
+#### Robert Henri, Street Scene Snow, 1902
+- Member of the ashcan school
+- 
+## Stieglitz
+## The Armory Show
