@@ -46,7 +46,11 @@
 - made from cardboard
 	- wants to question what makes art art?
 	- it's not like other materials are particularly special
-	- 
+	- We're the ones that make the rules
+#### Picasso, Three Musicians, 1921
+- *Synthetic Cubism* - start with colors and shapes, the colors and shapes move into things that look like things, 
+	- synthesize -> build up something
+- 
 # Ashcan
 # Stieglitz
 # The Armory Show
