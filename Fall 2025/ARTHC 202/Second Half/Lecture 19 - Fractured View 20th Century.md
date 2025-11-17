@@ -31,7 +31,10 @@
 		- Goal is to make something new not a representation of it 
 		- Not look exactly like a guy that plays the guitar
 		- the painting is a painting
-- 
+- breaking up the figure and the ground
+	- figure-ground relationship: differentiate the figure from the ground
+	- For cubists, the ground also gets broken into shapes
+	- 
 # Ashcan
 # Stieglitz
 # The Armory Show
