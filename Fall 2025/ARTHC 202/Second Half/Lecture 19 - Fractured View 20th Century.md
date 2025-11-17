@@ -44,7 +44,9 @@
 	- a model for a larger sculpture of a guitar
 - liked it as it is
 - made from cardboard
-- 
+	- wants to question what makes art art?
+	- it's not like other materials are particularly special
+	- 
 # Ashcan
 # Stieglitz
 # The Armory Show
