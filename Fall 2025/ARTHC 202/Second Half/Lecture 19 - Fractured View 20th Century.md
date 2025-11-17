@@ -1,4 +1,3 @@
-# Cubism
 ## Picasso & Braque
 #### Pablo Picasso, First Communion, 1896 
 - Picasso didn't just paint abstract paintings
@@ -16,7 +15,14 @@
 - Rose period
 	- uses colors in a rose
 	- Emotionally ambiguous paintings
+#### Picasso, Les Demoisselles D'Avignon, 1907
+- not a truly cubist work
+- transitional piece
+- adaptation of the rose period
+- Still in an expressionist mode 
 - 
+# Cubism
+
 # Ashcan
 # Stieglitz
 # The Armory Show
