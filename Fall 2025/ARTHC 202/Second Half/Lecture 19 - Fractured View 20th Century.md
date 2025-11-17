@@ -37,7 +37,7 @@
 - **compressed palette and lots of right angles**
 
 #### Picasso, Still Life with Chair Cane, 1912
-- Looking down at a glass topped table
+- Looking down at a glass topped table at a cafe
 - 
 # Ashcan
 # Stieglitz
