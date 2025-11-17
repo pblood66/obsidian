@@ -29,7 +29,9 @@
 - Fractured view
 	- *Analytic cubism* - start with something you see in the real world, using your eyes analyze the geometric pattern, break it down into its geometric shapes, move around the shapes
 		- Goal is to make something new not a representation of it 
-		- 
+		- Not look exactly like a guy that plays the guitar
+		- the painting is a painting
+- 
 # Ashcan
 # Stieglitz
 # The Armory Show
