@@ -22,7 +22,7 @@
 - Still in an expressionist mode 
 - Saw the paintings of Cezanne
 	- flattened landscapes
-	- 
+- 
 # Cubism
 
 # Ashcan
