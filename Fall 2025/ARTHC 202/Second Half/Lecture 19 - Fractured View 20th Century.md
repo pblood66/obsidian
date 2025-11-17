@@ -73,6 +73,7 @@
 ## Ashcan
 #### Robert Henri, Street Scene Snow, 1902
 - Member of the ashcan school
-- 
+- Henri was like an older brother figure for other artists
+	- Use a sense of spp
 ## Stieglitz
 ## The Armory Show
