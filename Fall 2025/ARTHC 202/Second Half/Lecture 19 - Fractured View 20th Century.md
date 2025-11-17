@@ -27,6 +27,7 @@
 - Picasso and Braque open the doors to cubism to the public
 - Portuguese man playing the guitar next to a river
 - Fractured view
+	- *Analytic cubism* - start with something you see in the real world, 
 # Ashcan
 # Stieglitz
 # The Armory Show
