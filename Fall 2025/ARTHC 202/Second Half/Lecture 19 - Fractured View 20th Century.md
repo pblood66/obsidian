@@ -20,7 +20,9 @@
 - transitional piece
 - adaptation of the rose period
 - Still in an expressionist mode 
-- Saw the paintings of Sazone
+- Saw the paintings of Cezanne
+	- flattened landscapes
+	- 
 # Cubism
 
 # Ashcan
