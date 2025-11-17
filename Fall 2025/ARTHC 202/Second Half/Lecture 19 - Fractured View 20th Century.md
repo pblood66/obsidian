@@ -20,7 +20,7 @@
 - transitional piece
 - adaptation of the rose period
 - Still in an expressionist mode 
-- 
+- Saw the paintings of Sazone
 # Cubism
 
 # Ashcan
