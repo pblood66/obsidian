@@ -22,9 +22,11 @@
 - Still in an expressionist mode 
 - Saw the paintings of Cezanne
 	- flattened landscapes
-- 
 # Cubism
-
+#### Georges Braque, The Portuguese, 1911
+- Picasso and Braque open the doors to cubism to the public
+- Portuguese man playing the guitar next to a river
+- Fractured view
 # Ashcan
 # Stieglitz
 # The Armory Show
