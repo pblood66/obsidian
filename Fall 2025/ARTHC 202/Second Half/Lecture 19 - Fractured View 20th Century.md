@@ -50,6 +50,7 @@
 #### Picasso, Three Musicians, 1921
 - *Synthetic Cubism* - start with colors and shapes, the colors and shapes move into things that look like things, 
 	- synthesize -> build up something
+- Introduces bright colors
 - 
 # Ashcan
 # Stieglitz
