@@ -51,6 +51,19 @@
 - *Synthetic Cubism* - start with colors and shapes, the colors and shapes move into things that look like things, 
 	- synthesize -> build up something
 - Introduces bright colors
+## The Futurists
+#### Giacomo Balla, Dynamism of a Dog on a Leash, 1913
+- Trying to represent something moving through space and time
+- *The futurists*
+- Shows motion and time
+- Hanging out in Italy
+#### Umberto Boccioni, Unique Forms of Continuity in Space, 1913
+- space moving around a figure
+- Writing futurists manifesto
+	- greatest work of art man has made is war
+		- cleanses the earth
+	- They hang out with peeps like Mussolini
+- Futurists are proto fascists
 - 
 # Ashcan
 # Stieglitz
