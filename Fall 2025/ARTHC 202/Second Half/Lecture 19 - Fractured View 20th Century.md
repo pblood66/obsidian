@@ -34,10 +34,11 @@
 - breaking up the figure and the ground
 	- figure-ground relationship: differentiate the figure from the ground
 	- For cubists, the ground also gets broken into shapes
-- compressed palette and lots of right angles
+- **compressed palette and lots of right angles**
 
 #### Picasso, Still Life with Chair Cane, 1912
-
+- Looking down at a glass topped table
+- 
 # Ashcan
 # Stieglitz
 # The Armory Show
