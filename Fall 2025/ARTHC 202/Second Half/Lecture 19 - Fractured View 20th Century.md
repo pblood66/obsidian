@@ -72,7 +72,6 @@
 # American Art, 1900-1913
 ## Ashcan
 #### Robert Henri, Street Scene Snow, 1902
-- Member of the ashcan school
 - Henri was like an older brother figure for other artists
 	- Encouraged use a sense of speed and liveliness in one's art
 - Like French impressionism but it's dirty
