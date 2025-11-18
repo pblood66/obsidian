@@ -84,6 +84,6 @@
 	- It's okay to act in certain ways that would not be okay in others
 	- it's a boxing match
 - Boxing is illegal but was emerging from back room fights
-	- 
+	 - Boxing clubs are a private club 
 ## Stieglitz
 ## The Armory Show
