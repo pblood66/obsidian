@@ -78,6 +78,7 @@
 - Looseness of the brush stroke
 - Urban realists
 #### Bellows, Both Members of the Same Club, 1909
- -
+- boxing matches in early 20th century
+- 
 ## Stieglitz
 ## The Armory Show
