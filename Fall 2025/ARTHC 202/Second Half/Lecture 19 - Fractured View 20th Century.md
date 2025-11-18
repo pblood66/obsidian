@@ -76,6 +76,7 @@
 - Henri was like an older brother figure for other artists
 	- Encouraged use a sense of speed and liveliness in one's art
 - Like French impressionism but it's dirty
+- Looseness of the brush stroke
 - 
 ## Stieglitz
 ## The Armory Show
