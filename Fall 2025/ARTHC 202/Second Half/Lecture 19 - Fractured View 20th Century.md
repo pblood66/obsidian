@@ -85,6 +85,11 @@
 	- it's a boxing match
 - Boxing is illegal but was emerging from back room fights
 	 - Boxing clubs are a private club to get around legality
+- interracial boxing match where the white person is losing
+#### John Sloan, Movie 5 Cents, 1908
+- methodical artists 
+	- take long walks around the city
+	- like Manet
 - 
 ## Stieglitz
 ## The Armory Show
