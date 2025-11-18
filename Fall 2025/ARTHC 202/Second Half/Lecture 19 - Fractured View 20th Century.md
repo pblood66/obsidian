@@ -80,6 +80,9 @@
 #### Bellows, Both Members of the Same Club, 1909
 - boxing matches in early 20th century
 - Faces feel unnatural 
+- captures the weird abandon that we get when we go to events like that
+	- It's okay to act in certain ways that would not be okay in others
+	- it's a boxing match
 - 
 ## Stieglitz
 ## The Armory Show
