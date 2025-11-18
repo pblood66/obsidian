@@ -90,6 +90,7 @@
 - methodical artists 
 	- take long walks around the city
 	- like Manet
+- Movies are events that all people of different classes go to
 - 
 ## Stieglitz
 ## The Armory Show
