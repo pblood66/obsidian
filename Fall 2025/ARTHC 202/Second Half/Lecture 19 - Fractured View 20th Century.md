@@ -91,6 +91,11 @@
 	- take long walks around the city
 	- like Manet
 - Movies are events that all people of different classes go to
+#### Sloan, Hairdresser's Window, 1907
+- gives a glimpse of nyc becoming a big center
+- gives a sense of isolationism and interconnectedness
+- **Ashcan artists work with grays**
+	- set mostly in New York City
 - 
 ## Stieglitz
 ## The Armory Show
