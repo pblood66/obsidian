@@ -83,6 +83,7 @@
 - captures the weird abandon that we get when we go to events like that
 	- It's okay to act in certain ways that would not be okay in others
 	- it's a boxing match
-- 
+- Boxing is illegal but was emerging from back room fights
+	- 
 ## Stieglitz
 ## The Armory Show
