@@ -76,7 +76,7 @@
 	- Encouraged use a sense of speed and liveliness in one's art
 - Like French impressionism but it's dirty
 - Looseness of the brush stroke
-- Urban realists
+- Urban impressionists
 #### Bellows, Both Members of the Same Club, 1909
 - boxing matches in early 20th century
 - Faces feel unnatural 
@@ -96,6 +96,12 @@
 - gives a sense of isolationism and interconnectedness
 - **Ashcan artists work with grays**
 	- set mostly in New York City
+### The Masses
+- Sloane illustrated for a magazine
+- Class war in Colorado
+- mining town tried to unionize
+	- When they try to strike, they all get fired
+- Mining is very dangerous and exploitive
 - 
 ## Stieglitz
 ## The Armory Show
