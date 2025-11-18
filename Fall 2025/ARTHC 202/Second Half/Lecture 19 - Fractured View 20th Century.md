@@ -76,6 +76,8 @@
 	- Encouraged use a sense of speed and liveliness in one's art
 - Like French impressionism but it's dirty
 - Looseness of the brush stroke
-- 
+- Urban realists
+#### Bellows, Both Members of the Same Club, 1909
+ -
 ## Stieglitz
 ## The Armory Show
