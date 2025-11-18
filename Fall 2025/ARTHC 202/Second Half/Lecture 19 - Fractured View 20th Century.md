@@ -102,6 +102,14 @@
 - mining town tried to unionize
 	- When they try to strike, they all get fired
 - Mining is very dangerous and exploitive
-- 
+- union sets up a shanty town next to it
+	- miners were living there
+- Try to keep people out of the mines
+- Strike breakers drive around the town firing machine guns and sirens
+	- trying to scare them
+- few weeks later a dead body is found
+	- Mining company says the strikers are violent
+- National guard burn down the mining town
+
 ## Stieglitz
 ## The Armory Show
