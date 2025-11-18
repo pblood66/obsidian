@@ -79,6 +79,7 @@
 - Urban realists
 #### Bellows, Both Members of the Same Club, 1909
 - boxing matches in early 20th century
+- Faces feel unnatural 
 - 
 ## Stieglitz
 ## The Armory Show
