@@ -25,3 +25,9 @@ Know the 7 churches
 7. d
 
 7 Golden Candlesticks
+
+templum -> latin word that means to orient oneself
+templum -> Temple
+
+The temple is where we orient ourselves to the Lord
+
