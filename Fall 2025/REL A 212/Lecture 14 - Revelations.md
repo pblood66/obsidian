@@ -4,3 +4,5 @@ Fundamental symbolism of revelations
 - animals
 - shapes
 - colors
+Paul is talking to 7 stakes of the church in Asia Minor
+- Struggling churches
