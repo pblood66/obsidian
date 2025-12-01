@@ -23,3 +23,5 @@ Know the 7 churches
 5. Sardis
 6. Thyatira
 7. d
+
+7 Golden Candlesticks
