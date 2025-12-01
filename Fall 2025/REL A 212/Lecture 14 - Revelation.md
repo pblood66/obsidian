@@ -14,3 +14,12 @@ Keep -> Shamar -> To Protect or Guard
 
 I liked in the lecture the discussion surrounding the word "Keep". It was really eye opening to learn that keep comes from the word shamar which is to protect or guard. I've heard the phrase "Keep the commandments" and "keep your covenants" over and over in my life, but it never occurred to me to think about it as "protecting my covenants". 
 
+Know the 7 churches
+7 Churches
+1. Smyrna
+2. Ephesus
+3. Laodicea
+4. Philadelphia
+5. Sardis
+6. Thyatira
+7. d
