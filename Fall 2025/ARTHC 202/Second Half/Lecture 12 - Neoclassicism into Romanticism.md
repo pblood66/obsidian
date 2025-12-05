@@ -152,4 +152,4 @@
 - Born in France and family moved to America early
 - Grew up with progressive ideals
 - Questions gender roles in her paintings
-- 
+-     
