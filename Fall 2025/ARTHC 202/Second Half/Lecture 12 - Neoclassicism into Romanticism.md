@@ -1,7 +1,7 @@
 # Neoclassicism
 - Influenced by the enlightenment
 - classical stories are supposed to teach something to the viewer
-- 
+
 ## Enlightenment
 - What it means to be a human
 - Shift from a divinely appointed monarchy to autonomy
