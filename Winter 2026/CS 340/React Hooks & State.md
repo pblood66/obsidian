@@ -67,3 +67,6 @@ const location = useLocation();
 location.pathname.startsWith("/feed/)
 ```
 
+ - useParams: Access URL path parameters of current route
+ - useSearchParams: Access URL query parameters of current route
+- 
