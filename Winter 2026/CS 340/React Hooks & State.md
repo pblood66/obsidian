@@ -73,3 +73,12 @@ location.pathname.startsWith("/feed/)
 ## Creating Hooks
 create a type or interface definition of object that has the functions that will be returned
 hooks are functions that start with the word use and returns functions
+
+# States
+## useState
+- use within components to cause a rerender when the state value changes
+- state variables are not re-initialized like a regular variable would be
+- returns an array
+	- element 0 is the state variable
+	- element 1 is an update function that can be called to change the state value and cause the component to rerender
+- 
