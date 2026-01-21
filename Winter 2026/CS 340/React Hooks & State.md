@@ -81,4 +81,12 @@ hooks are functions that start with the word use and returns functions
 - returns an array
 	- element 0 is the state variable
 	- element 1 is an update function that can be called to change the state value and cause the component to rerender
-- 
+### Updater Functions
+2 forms
+1. setX(123)
+2. setX(previous => 123)
+```ts
+setUserInfo((previous) => {
+	return { ...previous, displayedUser: user}
+});
+```
