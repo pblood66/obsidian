@@ -69,4 +69,7 @@ location.pathname.startsWith("/feed/)
 
  - useParams: Access URL path parameters of current route
  - useSearchParams: Access URL query parameters of current route
-- 
+
+## Creating Hooks
+create a type or interface definition of object that has the functions that will be returned
+hooks are functions that start with the word use and returns functions
