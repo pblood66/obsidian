@@ -50,3 +50,20 @@ const toastActions = useMemo(
 )
 ```
 
+## Common Built-in React Router Hooks
+- useNavigate: Navigate to a route
+```ts
+import {useNavigate} from "react-router-dom";
+
+const navigate = useNavigate();
+navigate("/login);
+```
+
+- useLocation: access URL of current route
+```ts
+import { useLocation } from "react-router-dom";
+
+const location = useLocation();
+location.pathname.startsWith("/feed/)
+```
+
