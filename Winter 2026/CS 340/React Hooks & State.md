@@ -33,4 +33,20 @@ const displayExistingToast = useCallback((toast: Toast) => {
 }, [])
 ```
 - dependency array is the same as useEffect
+- often used with useMemo
+## useMemo
+- memoizes a value 
+- returns a value usually an object
+
+```ts
+const toastActions = useMemo(
+	() => {{
+		displayExistingToast,
+		displayToast,
+		deleteToast,
+		deleteAllToasts,
+	}},
+	[displayExistinToast, displayToast, deleteToast, deleteAllToasts]
+)
+```
 
