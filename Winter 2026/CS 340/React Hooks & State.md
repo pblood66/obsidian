@@ -32,4 +32,5 @@ const displayExistingToast = useCallback((toast: Toast) => {
 	setToastList((previousList) => [...previousList, toast]);
 }, [])
 ```
-- dependency array is the same
+- dependency array is the same as useEffect
+
