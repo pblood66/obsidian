@@ -4,4 +4,7 @@
 1. Create an interface
 2. B (implements)-> Interface <-(depends) A
 ## DynamoDB
+## DTO's
+- Classes should only have 1 reason to change
+	- not 2
 - 
